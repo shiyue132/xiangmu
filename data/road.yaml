@@ -1,0 +1,5 @@
+﻿# 路径指向新的 19 类数据集
+train: D:/bigdata_ai40/YOLO/road_label/road_dataset_19cls/images/train
+val: D:/bigdata_ai40/YOLO/road_label/road_dataset_19cls/images/val
+nc: 19
+names: ['person', 'round_manhole_cover', 'round_barrel', 'round_rain_cover', 'pothole', 'block_patch', 'debris', 'damaged_guardrail', 'square_rain_cover', 'loose', 'blurred_marking', 'transverse_patch', 'transverse_crack', 'longitudinal_patch', 'longitudinal_crack', 'longitudinal_fissure', 'mesh_patch', 'mesh_crack', 'traffic_cone']
